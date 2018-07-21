@@ -1,4 +1,4 @@
-# Implementing a Machine Learning Algorythm, from DataSet to Production
+# Implementing a Machine Learning Algorithm, from DataSet to Production
 
 Data science is a **HUGE** field. We're not going to cover it 
 here. Not even close. However, if you come from a software 
@@ -11,7 +11,7 @@ to know where to even start.
 
 The following is a very basic tutorial designed to go through 
 the process of designing a simple machine learning algorithm and
-translating it it to code that can be deploied in production. 
+translating it it to code that can be deployed in production. 
 It can be used as a model for a software engineer to develop 
 their own ML algorithms for production and/or also a starting 
 point to better explore the field of data science.
@@ -258,11 +258,11 @@ human readable, but can be updated with greater ease.
 
 The above are largely specific to `DecisionTreeClassifier` in 
 Scikit-Learn. Other machine learning APIs, frameworks and 
-librariesmay vary, and there are also a number of standards
+libraries may vary, and there are also a number of standards
 that have been adopted to decribe models, such as the 
 Predictive Model Markup Language (PMML), but ultimately you
-can always export models - they wouldn't be much use if you
-couldn't.
+can always export models - they would not be of much use if you
+could not.
 
 ### Conclusions
 
@@ -275,7 +275,7 @@ only meant as an introductory overview of how to do so.
 As I began this tutorial, data science is a **HUGE** field and
 while I hope this tutorial gives you a good jumping point into
 the field, different use cases will require approaches that
-will deviate from this and require a significan amount of
-additional researh. However, having being introduded to the
+will deviate from this and require a significant amount of
+additional research. However, having being introduced to the
 landscape, you should now be able to navigate through that 
 research with greater ease.

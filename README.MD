@@ -56,7 +56,7 @@ this.
 
 So we're going to cheat a little and use the _IRIS dataset_, 
 which comes bundled with _Scikit-Learn_, already cleaned and 
-features prepared and ready for use. The aim is to create 
+features prepared and ready for use. The aim is to create an
 algorithm that allows us to identify which species of Iris 
 flower is being observed based upon features such as petal 
 length.
@@ -170,7 +170,7 @@ This produces the following PNG image in the output directory.
 
 ![The Final Decision Tree Model](output/tree.png)
 
-Form this it would be possible to extract the necessary logic
+From this it would be possible to extract the necessary logic
 to write the business logic in any software language. As I
 mentioned earlier, we're using a decision tree classifier,
 which is just a nested series of if/else conditionals that 

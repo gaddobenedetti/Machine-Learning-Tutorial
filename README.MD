@@ -2,16 +2,16 @@
 
 Data science is a **HUGE** field. We're not going to cover it 
 here. Not even close. However, if you come from a software 
-engineering background it does give an overview of the life 
-cycle of data science, from which you can research in greater 
-detail. Having gone through this learning curve myself, I can 
-attest to how bewildering the entire field can be at first and 
-being able to see the _'big picture'_ is essential if you want 
-to know where to even start.
+engineering background it does give an overview of the scope of a 
+data science implementation project cycle of data science, from which
+you can research in greater detail. Having gone through this learning 
+curve myself, I can attest to how bewildering the entire field can be
+at first and being able to see the _'big picture'_ is essential if you 
+want to know where to even start.
 
 The following is a very basic tutorial designed to go through 
-the process of designing a simple machine learning algorithm and
-translating it it to code that can be deployed in production. 
+the process of very basic tutorial designed to go through the 
+process of training a simple machine learning algorithm. 
 It can be used as a model for a software engineer to develop 
 their own ML algorithms for production and/or also a starting 
 point to better explore the field of data science.
